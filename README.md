@@ -16,6 +16,10 @@ Just some git commands
 
 ### Pousser une branche locale sur le remote ###
 
+Pour la personne qui souhaite pousser la branche :
+
     git push origin branche_locale
     
-    
+Pour que quelqu'un d'autre la récupère
+
+    git checkout -b test origin/test
