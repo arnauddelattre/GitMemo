@@ -12,3 +12,10 @@ Just some git commands
 ###Forcer la récupération d'un fichier à partir d'une autre branche###
 
     git checkout <branch_name> -- <paths>
+
+
+### Pousser une branche locale sur le remote ###
+
+    git push origin branche_locale
+    
+    
