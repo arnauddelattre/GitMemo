@@ -23,3 +23,8 @@ Pour la personne qui souhaite pousser la branche :
 Pour que quelqu'un d'autre la récupère
 
     git checkout -b test origin/test
+
+###Annuler un merge###
+
+    git merge --abort
+    
